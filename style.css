@@ -1,0 +1,123 @@
+.menu{
+    width: 100%;
+    height: 45px;
+    background-color: #065345;
+}
+
+.menu a{
+    color: white;
+    text-decoration: none;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    padding-left: 15px;
+}
+
+.menu a:hover{
+    color: #4A9A8B;
+}
+
+.images{
+    padding-left: 54px;
+
+}
+
+.product{
+    width: 48.5%;
+    
+}
+
+h1{
+    text-align: center;
+    font-family: Helvetica ;
+    color: #4A9A8B;
+}
+
+h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+.paragraph{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+
+}
+
+#button{
+    width: 150px;
+    height: 35px;
+    color: white;
+    font-weight: 800;
+    background-color: #4A9A8B;
+    
+}
+
+#button:hover{
+    background-color: #065345;
+}
+
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 25px;
+}
+
+.paragraph2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.table{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+table{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    font-family : Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    
+    
+}
+
+th{
+    
+    font-weight: 800;
+}
+
+td{
+    padding-left: 10px;
+    padding-right: 10px;
+    color: White;
+    background-color: #4A9A8B;
+}
+
+#label{
+    padding-right: 37px;
+}
+
+input{
+    height: 20px;
+    width: 350px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+    
+
